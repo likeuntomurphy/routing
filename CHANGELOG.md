@@ -5,6 +5,7 @@ CHANGELOG
 -----
 
  * added fallback to cultureless locale for internationalized routes
+ * Added a `query_encoding_type` configuration option for `UrlGenerator` to allow encoding query strings according to RFC 1738.
 
 4.0.0
 -----
